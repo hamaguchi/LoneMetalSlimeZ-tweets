@@ -4,7 +4,7 @@
   "description": "\"feather 公式アカウント(@feather_ios)の定期ツイート\"",
   "main": "index.js",
   "scripts": {
-    "start": "npm install && node index.js",
+    "start": "npm install && nodejs index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
